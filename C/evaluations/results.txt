@@ -1,0 +1,3 @@
+media: 4
+mediana: 5
+moda: 2
